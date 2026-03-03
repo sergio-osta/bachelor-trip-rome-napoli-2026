@@ -6,5 +6,10 @@ This repo contains a deep planning research and activity options for an 11-perso
 - 19th: Back to Rome (some fly home)
 - 20th: Remaining group departs
 
-Main document:
+Main documents:
 - `research/itinerary-deep-research-rome-napoli-16-20.md`
+- `research/gemini-deep-research-v2-practical.md` (clean practical version)
+- `research/reddit-addendum-what-we-missed.md`
+
+Archive:
+- `research/gemini-deep-research-raw.md` (original raw draft)
