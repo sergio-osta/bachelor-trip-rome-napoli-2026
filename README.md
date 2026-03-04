@@ -1,15 +1,25 @@
-# Bachelor Trip Research — Rome + Napoli (16–20)
+# Despedida de Giacomino Alfonsetti Molinari Bermeggió
 
-This repo contains a deep planning research and activity options for an 11-person bachelor trip:
-- 16th: Rome
-- 18th: Train to Napoli
-- 19th: Back to Rome (some fly home)
-- 20th: Remaining group departs
+Roma → Nápoles → Roma — 16-19 abril 2026 — 12 personas
 
-Main documents:
-- `research/itinerary-deep-research-rome-napoli-16-20.md`
-- `research/gemini-deep-research-v2-practical.md` (clean practical version)
-- `research/reddit-addendum-what-we-missed.md`
+## Itinerario final
 
-Archive:
-- `research/gemini-deep-research-raw.md` (original raw draft)
+**[itinerario-final.md](itinerario-final.md)** — el plan completo en español con toda la info confirmada, ideas de pranks, y pendientes.
+
+## Estructura del repo
+
+```
+itinerario-final.md            ← PLAN FINAL (leer esto)
+research/                      ← investigación de actividades y pranks
+  worst-restaurants-rome.md      peores restaurantes turísticos de Roma
+  dj-prank-naples-research.md    investigación DJ set en Nápoles
+  bachelor-pranks-challenges-research.md   ideas de challenges y pruebas
+drafts/                        ← borradores y versiones anteriores
+  gemini-deep-research-v2-practical.md     versión de trabajo (superseded)
+  gemini-deep-research-raw.md             borrador original Gemini
+  itinerary-deep-research-v1.md           primera versión del itinerario
+  reddit-addendum.md                      addendum de Reddit
+  old-chef-research.md                    investigación chef privado
+transcripts/                   ← transcripciones de reuniones
+  reunion-2026-03-03.md          reunión de planificación 3 marzo
+```
