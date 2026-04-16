@@ -1,0 +1,3 @@
+[submodule "review-guessing-game"]
+	path = review-guessing-game
+	url = https://github.com/sergio-osta/javis-drinking-game.git
