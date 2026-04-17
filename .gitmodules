@@ -1,3 +1,6 @@
 [submodule "review-guessing-game"]
 	path = review-guessing-game
 	url = https://github.com/sergio-osta/javis-drinking-game.git
+[submodule "pompeii-fake-tour"]
+	path = pompeii-fake-tour
+	url = https://github.com/sergio-osta/pompeii-fake-tour.git
